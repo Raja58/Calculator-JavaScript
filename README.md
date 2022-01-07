@@ -1,4 +1,4 @@
-# Calculator-JavaScript
+# Calculator - JavaScript
 
 •	Developed a multi-functional calculator by utilising HTML, CSS and JavaScript.
 
